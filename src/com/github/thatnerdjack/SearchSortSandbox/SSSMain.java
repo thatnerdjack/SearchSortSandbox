@@ -24,10 +24,5 @@ public class SSSMain {
 		d2.sort();
 		d2.print();
 
-        System.out.println(lookupLinear(d1, 694));
-        System.out.println(lookupLinear(d1, -2));
-        System.out.println(lookupLinear(d2, 694));
-        System.out.println(lookupLinear(d2, -2));
-
 	}
 }
